@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "source": "ClinicalTrials.gov",
+    "query": "Anterior Cruciate Ligament + Rehabilitation",
+    "populationFocus": "Female athletes / women",
+    "totalStudiesInCorpus": 338,
+    "featuredTrials": 5,
+    "dataRetrievedDate": "2026-06-08",
+    "description": "Structured trial metadata for the 5 most relevant ACL rehabilitation trials for female athletes"
+  },
+  "trendAnalysis": {
+    "countByStatus": {
+      "totalStudies": 338,
+      "results": {
+        "COMPLETED": 123,
+        "RECRUITING": 75,
+        "UNKNOWN": 66,
+        "NOT_YET_RECRUITING": 29,
+        "TERMINATED": 13,
+        "WITHDRAWN": 13,
+        "ENROLLING_BY_INVITATION": 9,
+        "ACTIVE_NOT_RECRUITING": 9,
+        "SUSPENDED": 1
+      }
+    },
+    "countByPhase": {
+      "totalStudies": 338,
+      "results": {
+        "NA": 258,
+        "Unknown": 58,
+        "PHASE2": 9,
+        "PHASE3": 7,
+        "PHASE4": 6,
+        "PHASE1": 2
+      }
+    },
+    "countBySponsorType": {
+      "totalStudies": 338,
+      "results": {
+        "OTHER": 309,
+        "OTHER_GOV": 15,
+        "INDUSTRY": 10,
+        "FED": 4
+      }
+    },
+    "countByCountry": {
+      "totalStudies": 338,
+      "top10": {
+        "United States": 182,
+        "United Kingdom": 39,
+        "France": 34,
+        "Turkey (Türkiye)": 30,
+        "China": 25,
+        "Brazil": 18,
+        "Canada": 19,
+        "Belgium": 16,
+        "Sweden": 14,
+        "Pakistan": 13
+      },
+      "allCountries": {
+        "United States": 182,
+        "United Kingdom": 39,
+        "France": 34,
+        "Turkey (Türkiye)": 30,
+        "China": 25,
+        "Canada": 19,
+        "Brazil": 18,
+        "Belgium": 16,
+        "Sweden": 14,
+        "Pakistan": 13,
+        "Switzerland": 12,
+        "Spain": 11,
+        "Egypt": 10,
+        "Austria": 9,
+        "Taiwan": 8,
+        "Portugal": 7,
+        "Norway": 6,
+        "Hong Kong": 6,
+        "Italy": 5,
+        "South Korea": 4,
+        "Saudi Arabia": 4,
+        "Germany": 4,
+        "Denmark": 4,
+        "Cyprus": 2,
+        "Mexico": 2,
+        "Singapore": 2,
+        "Israel": 2,
+        "Netherlands": 2,
+        "Ireland": 2,
+        "Chile": 2,
+        "Malaysia": 1,
+        "Romania": 1,
+        "Bangladesh": 1,
+        "Indonesia": 3,
+        "Greece": 1,
+        "Croatia": 1,
+        "Lithuania": 1,
+        "Australia": 1,
+        "Thailand": 1,
+        "Iran": 1,
+        "Poland": 1,
+        "Finland": 1,
+        "United Arab Emirates": 1
+      }
+    }
+  },
+  "featuredTrials": [
+    {
+      "nctId": "NCT07128602",
+      "title": "Determining the Effects of Non-invasive Brain Stimulation to Improve Quadriceps Muscle Function After ACL Reconstruction",
+      "status": "RECRUITING",
+      "phase": "NA",
+      "sponsor": "Arcadia University",
+      "nihGrant": "1R15HD118518-01",
+      "nihInstitute": "NICHD",
+      "pi": "Ryan Zarzycki, PT, PhD",
+      "startDate": "2025-06-06",
+      "estimatedCompletion": "2028-03-01",
+      "enrollment": 42,
+      "populationSex": "FEMALE",
+      "ageRange": "18-35 years",
+      "location": "Glenside, Pennsylvania, USA",
+      "interventionType": "DEVICE",
+      "interventions": [
+        "Active transcranial direct current stimulation (tDCS)",
+        "Sham transcranial direct current stimulation (tDCS)"
+      ],
+      "primaryOutcomes": [
+        "Peak quadriceps muscle torque",
+        "Corticospinal excitability (TMS slope)"
+      ],
+      "secondaryOutcomes": [
+        "Rate of Torque Development (RTD 0-100ms, 100-200ms)",
+        "Active Motor Threshold (AMT)"
+      ],
+      "keyFeature": "Female-only trial targeting neural drive deficits post-ACLR using non-invasive brain stimulation",
+      "ipdSharing": "YES"
+    },
+    {
+      "nctId": "NCT07047833",
+      "title": "Plyometric Training With or Without Hamstring Strengthening for Preventing ACL Injuries in Female Amateur Athletes",
+      "status": "COMPLETED",
+      "phase": "NA",
+      "sponsor": "University of Lahore",
+      "pi": "Fareeha Raja",
+      "startDate": "2024-05-21",
+      "completionDate": "2025-03-25",
+      "enrollment": 60,
+      "populationSex": "FEMALE",
+      "ageRange": "18-30 years",
+      "location": "Lahore, Pakistan",
+      "interventionType": "BEHAVIORAL",
+      "interventions": [
+        "Plyometric Training with Hamstring Strengthening (Nordic curls, machine leg curls)",
+        "Plyometric Training Only (squat jumps, depth jumps, lateral jumps)"
+      ],
+      "duration": "6 weeks, 2 sessions/week",
+      "primaryOutcomes": [
+        "Knee flexion and extension strength (handheld dynamometer)"
+      ],
+      "secondaryOutcomes": [
+        "Dynamic balance (Star Excursion Balance Test - SEBT)",
+        "Functional mobility (KOOS)"
+      ],
+      "assessmentTimepoints": ["Baseline", "Week 3", "Week 6"],
+      "keyFeature": "First RCT comparing combined plyometric + hamstring training vs plyometric only in female amateur athletes",
+      "ipdSharing": "NO"
+    },
+    {
+      "nctId": "NCT05527171",
+      "title": "Virtual Reality Mindfulness Meditation After ACL Reconstruction",
+      "status": "RECRUITING",
+      "phase": "NA",
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "nihGrant": "K23AR079056",
+      "nihInstitute": "NIAMS",
+      "pi": "Shelby E. Baez, PhD, ATC",
+      "startDate": "2023-09-05",
+      "estimatedCompletion": "2026-06-30",
+      "enrollment": 48,
+      "populationSex": "FEMALE",
+      "ageRange": "14-25 years",
+      "location": "Chapel Hill, North Carolina, USA",
+      "interventionType": "BEHAVIORAL",
+      "interventions": [
+        "Virtual Reality Mindfulness Meditation (3x/week, 8 weeks, guided in VR environment)",
+        "Virtual Reality Sham (VR environment, no meditation)"
+      ],
+      "primaryOutcomes": [
+        "Feasibility: recruitment and retention rates",
+        "Acceptability survey score",
+        "Tampa Scale of Kinesiophobia-11 (injury-related fear)"
+      ],
+      "secondaryOutcomes": [
+        "External knee abduction moment (3D motion capture)",
+        "Knee flexion excursion (jump-landing task)",
+        "Mean % BOLD fMRI signal (Default Mode Network)"
+      ],
+      "keyFeature": "Novel VR-based psychological intervention targeting kinesiophobia and neurological recovery in female athletes post-ACLR",
+      "ipdSharing": "YES"
+    },
+    {
+      "nctId": "NCT07589309",
+      "title": "Comparative Effectiveness of Blood Flow Restriction With or Without Total Motion Release in ACL Rehabilitation",
+      "acronym": "BFR-TMR-ACL",
+      "status": "COMPLETED",
+      "phase": "NA",
+      "sponsor": "Green International University",
+      "collaborator": "Sir Ganga Ram Hospital",
+      "pi": "Ali Muslim Raza",
+      "startDate": "2025-11-02",
+      "completionDate": "2026-05-05",
+      "enrollment": 44,
+      "populationSex": "ALL",
+      "ageRange": "16-45 years",
+      "location": "Lahore, Punjab, Pakistan",
+      "interventionType": "DEVICE + PROCEDURE",
+      "interventions": [
+        "BFR + TMR: Blood Flow Restriction (60-80% occlusion) + Total Motion Release (contralateral trunk rotations, hip shifts)",
+        "BFR Only: Blood Flow Restriction (60-80% occlusion) + standard physiotherapy"
+      ],
+      "duration": "6 months, 3 sessions/week",
+      "primaryOutcomes": [
+        "Maximum isometric lower limb strength (handheld dynamometer)",
+        "Single Leg Stance (SLS) test duration",
+        "IKDC Subjective Knee Form (0-100)"
+      ],
+      "assessmentTimepoints": ["Baseline", "6 weeks", "12 weeks", "6 months"],
+      "keyFeature": "Novel combination of BFR and TMR for post-ACLR rehabilitation; 6-month follow-up with LSI assessment",
+      "ipdSharing": "YES"
+    },
+    {
+      "nctId": "NCT06974526",
+      "title": "Subdermal Implant-bioabsorbable Oxandrolone Pellet For Rehabilitation Following ACL Surgical Reconstruction",
+      "acronym": "IMOX",
+      "status": "RECRUITING",
+      "phase": "PHASE2",
+      "sponsor": "Science Valley Research Institute",
+      "collaborator": "Stin Pharma",
+      "pi": "Roberto Tauchmann, MD",
+      "studyChair": "André Malavasi, MD, PhD",
+      "startDate": "2025-11-28",
+      "estimatedCompletion": "2027-04-30",
+      "enrollment": 96,
+      "populationSex": "ALL",
+      "ageRange": "18-60 years",
+      "locations": [
+        "Fortaleza, Ceará, Brazil",
+        "Belo Horizonte, Minas Gerais, Brazil",
+        "Curitiba, Paraná, Brazil",
+        "Brusque, Santa Catarina, Brazil",
+        "Santo André, São Paulo, Brazil",
+        "Santos, São Paulo, Brazil"
+      ],
+      "interventionType": "DRUG",
+      "dosing": {
+        "female": "200mg oxandrolone subdermal implant (1 pellet)",
+        "male": "400mg oxandrolone subdermal implant (2 pellets)"
+      },
+      "interventions": [
+        "Oxandrolone subdermal bioabsorbable implant",
+        "Placebo subdermal bioabsorbable implant"
+      ],
+      "duration": "24 weeks",
+      "primaryOutcomes": [
+        "Composite serious adverse events (SAEs) at 24 weeks"
+      ],
+      "secondaryOutcomes": [
+        "Androgenization signs (female participants: hirsutism, alopecia, acne, voice deepening)",
+        "Biochemical profile",
+        "Metabolic profile",
+        "Hormonal profile (FSH, LH, testosterone)",
+        "Hemostasis parameters"
+      ],
+      "exploratoryEfficacyOutcomes": [
+        "Thigh volume (MRI)",
+        "Body composition (bioimpedance)",
+        "Isometric strength (dynamometry, LSI)",
+        "Lysholm Knee Score",
+        "Y-Balance Test",
+        "SF-36 Quality of Life",
+        "GAD-7 (anxiety)",
+        "PHQ-9 (depression)"
+      ],
+      "keyFeature": "Only Phase II pharmacological trial for ACL rehabilitation; bioabsorbable subdermal delivery system; female-specific safety monitoring",
+      "ipdSharing": "YES"
+    }
+  ]
+}
